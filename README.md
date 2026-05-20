@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/images/banner.jpg" alt="Naruto Banner" width="100%" style="border-radius: 10px;">
-</p>
-
-<h1 align="center" style="border: none;">Hi, I'm Gustavo Ccama </h1>
+<h1 align="center">Hi , I'm Gustavo Ccama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&color=FF9900&background=00000000&size=24&center=true&vCenter=true&width=600&height=80&lines=Programmer;Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer"></a>
@@ -25,9 +21,9 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
+## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
-<img align="right" src="assets/images/kakashi-fev.gif" width="220" style="border-radius: 10px; margin-left: 20px;">
+<img align="left" src="assets/images/kakashi-fev.gif" width="280" style="border-radius: 10px; margin-right: 20px;">
 
 - I am a Computer Science student at Universidad Nacional de San Agustín.
 - I love using Software as a solution for every problem.
@@ -36,10 +32,10 @@
 - I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/Ahmed_Hossam_Resume).
 - You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
 
-<br>
+<br clear="left">
 <br>
 
-## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
+## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
 
 <div align="center">
 
@@ -84,7 +80,7 @@
 <br>
 <br>
 
-## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Snake Eating My Contributions Graph
+## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Snake Eating My Contributions Graph
 
 <p align="center">
   <picture>
