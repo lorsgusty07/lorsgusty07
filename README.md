@@ -1,6 +1,10 @@
 <h1 align="center">Hi , I'm Gustavo Ccama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  <img src="assets/images/banner.jpg" alt="Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&color=FF9900&background=00000000&size=24&center=true&vCenter=true&width=600&height=80&lines=Programmer;Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer"></a>
 </p>
 
@@ -23,7 +27,7 @@
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
-<img align="left" src="assets/images/kakashi-fev.gif" width="280" style="border-radius: 10px; margin-right: 20px;">
+<img align="left" src="assets/images/kakashi-fev.gif" width="280" style="border-radius: 10px; margin-right: 60px;">
 
 - I am a Computer Science student at Universidad Nacional de San Agustín.
 - I love using Software as a solution for every problem.
