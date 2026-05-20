@@ -11,18 +11,19 @@
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
-<img align="left" src="assets/images/kakashi-fev.gif" height="120" style="border-radius: 10px; margin-right: 60px;">
 
-- I am a Computer Science student at Universidad Nacional de San Agustín.
-- I love using Software as a solution for every problem.
-- I am a competitive programmer active on Codeforces, Atcoder, Leetcode, and Codechef.
-- I am currently focused on learning Computer Science and Software Engineering.
-- I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/Ahmed_Hossam_Resume).
-- You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am a Computer Science student at Universidad Nacional de San Agustín.
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I love using Software as a solution for every problem.
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am a competitive programmer active on Codeforces, Atcoder, Leetcode, and Codechef.
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am currently focused on learning Computer Science and Software Engineering.
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/Ahmed_Hossam_Resume).
+<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
 
 <br clear="left">
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
+
+<img alt="Kakashi Dev" src="assets/images/kakashi-fev.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
