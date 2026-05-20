@@ -1,5 +1,13 @@
 <h1 align="center">Hi , I'm Gustavo Ccama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<image src= "https://github.com/lorsgusty07/lorsgusty07/assets/images/kakashi-fev.gif?raw=true" width = 250px>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer;Computer+Science+Student"></a>
+</p>
+
+<image src= "https://github.com/lorsgusty07/lorsgusty07/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+
 <div align="center">
   <a href="mailto:ahmed.7oskaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -10,20 +18,11 @@
   <a href="https://www.linkedin.com/in/7oskaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/0201208822340">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="http://lnkiy.in/Ahmed_Hossam_Resume">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://7oskaaa.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer;Computer+Science+Student"></a>
-</p>
-
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
