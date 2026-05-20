@@ -9,8 +9,6 @@
 </p>
 
 
-<br>
-
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
 <img align="left" src="assets/images/kakashi-fev.gif" height="120" style="border-radius: 10px; margin-right: 60px;">
