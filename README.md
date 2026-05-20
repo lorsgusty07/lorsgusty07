@@ -21,11 +21,8 @@
 - You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
 
 <br clear="left">
-<br>
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
-
-### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
