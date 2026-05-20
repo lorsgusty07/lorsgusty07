@@ -12,18 +12,18 @@
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
 
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am a Computer Science student at Universidad Nacional de San Agustín.
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I love using Software as a solution for every problem.
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am a competitive programmer active on Codeforces, Atcoder, Leetcode, and Codechef.
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am currently focused on learning Computer Science and Software Engineering.
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/Ahmed_Hossam_Resume).
-<img src="assets/icons/narutomaki2.png" width="12" height="12" style="vertical-align: middle; margin-right: 8px;"> You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am a Computer Science student at Universidad Nacional de San Agustín. 
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I love using Software as a solution for every problem.
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am a developer focused on leveraging computer science and advanced algorithms to solve real-world challenges.
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am currently focused on learning Artificial Intelligence and Distributed Systems.
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/).
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> You can visit my personal [Website](https://cutt.ly/).
 
 <br clear="left">
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
 
-<img alt="Kakashi Dev" src="assets/images/kakashi-fev.gif" align="right"/>
+<img alt="Kakashi Dev" src="assets/images/kakashi-fev.gif" width="200" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
