@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gustavo Ccama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<image src= "https://github.com/lorsgusty07/lorsgusty07/assets/images/kakashi-fev.gif?raw=true" width = 250px>
+<image src= "https://github.com/lorsgusty07/lorsgusty07/blob/main/assets/images/kakashi-fev.gif?raw=true" width = 250px>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer;Computer+Science+Student"></a>
