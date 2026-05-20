@@ -1,92 +1,90 @@
 <p align="center">
-  <img src="assets/images/naruto-banner.png" alt="Naruto Banner" width="100%" style="border-radius: 10px;">
+  <img src="assets/images/banner.png" alt="Naruto Banner" width="100%" style="border-radius: 10px;">
 </p>
 
-<h1 align="center" style="border: none;">
-  <img src="https://img.shields.io/badge/🥷-GUSTAVO%20CCAMA-FF9900?style=for-the-badge&labelColor=1A1A1A" height="38">
-</h1>
+<h1 align="center" style="border: none;">Gustavo Ccama</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&color=FF9900&background=00000000&size=24&center=true&vCenter=true&width=600&height=80&lines=Shinobi+Developer+🥷;Computer+Science+Student+💻;Competitive+Programmer+🏆;Full+Stack+Developer+🚀"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&color=FF9900&background=00000000&size=24&center=true&vCenter=true&width=600&height=80&lines=Programmer;Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer"></a>
 </p>
 
 <div align="center">
   <a href="mailto:alonsospinola70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF9900" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/lorsgusty07">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF9900" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/7oskaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF9900" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://7oskaaa.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=FF9900" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 <br>
 
-## <img src="https://img.shields.io/badge/🥷-CAMINO%20NINJA%20%7C%20SOBRE%20MÍ-FF9900?style=for-the-badge&labelColor=1A1A1A" height="30">
+## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> About Me
 
 <img align="right" src="assets/images/kakashi-fev.gif" width="220" style="border-radius: 10px; margin-left: 20px;">
 
-- 🎓 **Estudiante** de [Ciencia de la Computación](https://admision.unsa.edu.pe/escuela/ingenieria-de-la-computacion/) en la [Universidad Nacional de San Agustín](https://www.unsa.edu.pe/).
-- 💻 **Desarrollador** apasionado por utilizar el software como solución a cualquier tipo de problema.
-- 🏆 **Programador Competitivo** activo en `Codeforces`, `Atcoder`, `Leetcode` y `Codechef`.
-- 📚 **Aprendizaje Continuo** enfocado en Ciencias de la Computación e Ingeniería de Software.
-- 💼 **Oportunidades**: Actualmente abierto a nuevos desafíos laborales. Puedes ver mi [CV / RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- 🌐 **Sitio Web**: Visita mi [Portafolio Personal](https://cutt.ly/Ahmed_Hossam_Website).
+- I am a Computer Science student at Universidad Nacional de San Agustín.
+- I love using Software as a solution for every problem.
+- I am a competitive programmer active on Codeforces, Atcoder, Leetcode, and Codechef.
+- I am currently focused on learning Computer Science and Software Engineering.
+- I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/Ahmed_Hossam_Resume).
+- You can visit my personal [Website](https://cutt.ly/Ahmed_Hossam_Website).
 
 <br>
 <br>
 
-## <img src="https://img.shields.io/badge/🌀-JUTSUS%20%7C%20HABILIDADES%20TÉCNICAS-FF9900?style=for-the-badge&labelColor=1A1A1A" height="30">
+## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
 
 <div align="center">
 
-### 🗡️ Lenguajes de Programación | Programming Languages
+### Languages
 <br>
-<img src="https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/PHP-1A1A1A?style=for-the-badge&logo=php&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/C%23-1A1A1A?style=for-the-badge&logo=c-sharp&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge&logo=kotlin&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br>
 
-### 🛡️ Frameworks y Librerías | Frameworks & Libraries
+### Frameworks & Libraries
 <br>
-<img src="https://img.shields.io/badge/Laravel-1A1A1A?style=for-the-badge&logo=laravel&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <br>
 
-### 📜 Bases de Datos | Databases
+### Databases
 <br>
-<img src="https://img.shields.io/badge/SQL%20Server-1A1A1A?style=for-the-badge&logo=microsoft-sql-server&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br>
 
-### ☁️ Infraestructura, Nube y SO | Cloud & OS
+### Cloud & OS
 <br>
-<img src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Google%20Cloud-1A1A1A?style=for-the-badge&logo=google-cloud&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FF9900" /> &nbsp;
-<img src="https://img.shields.io/badge/Windows-1A1A1A?style=for-the-badge&logo=windows&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
 
 <br>
 <br>
 
-## <img src="https://img.shields.io/badge/🐍-JUTSU%20DE%20INVOCACIÓN%20%7C%20CONTRIBUCIONES-FF9900?style=for-the-badge&labelColor=1A1A1A" height="30">
+## <img src="https://raw.githubusercontent.com/baoanh1310/sharingan/main/images/sharingan.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Snake Eating My Contributions Graph
 
 <p align="center">
   <picture>
