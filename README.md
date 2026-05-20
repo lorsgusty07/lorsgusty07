@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/images/banner.png" alt="Naruto Banner" width="100%" style="border-radius: 10px;">
+  <img src="assets/images/banner.jpg" alt="Naruto Banner" width="100%" style="border-radius: 10px;">
 </p>
 
-<h1 align="center" style="border: none;">Gustavo Ccama</h1>
+<h1 align="center" style="border: none;">Hi, I'm Gustavo Ccama </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&color=FF9900&background=00000000&size=24&center=true&vCenter=true&width=600&height=80&lines=Programmer;Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer"></a>
