@@ -23,7 +23,7 @@
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
 
-<img alt="Kakashi Dev" src="assets/images/kakashi-fev.gif" width="200" align="right"/>
+<img alt="Kakashi Dev" src="assets/images/kakashi-fev.gif" width="480" align="right"/>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
