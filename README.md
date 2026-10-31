@@ -17,7 +17,7 @@
 <img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am a developer focused on leveraging computer science and advanced algorithms to solve real-world challenges.<br>
 <img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am currently focused on learning Artificial Intelligence and Distributed Systems.<br>
 <img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> I am open to new job opportunities. Here is my [Resume / CV](http://lnkiy.in/).<br>
-<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> You can visit my personal [Website](https://cutt.ly/).
+<img src="assets/icons/narutomak2i.png" width="12" height="12" style="vertical-align: middle; margin-right: 4px;"> You can visit my personal [Website](https://portfolio-orwl-eight.vercel.app/).
 
 
 ## <img src="assets/icons/narutomaki.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills
